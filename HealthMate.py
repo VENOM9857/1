@@ -72,7 +72,7 @@ Answer:"""
     )
 
 def main():
-    st.title("🩺 HealthMate: Your Medical Buddy")
+    st.title("🩺 DocBot: Your Medical Assistance")
     query = st.text_input("Ask me anything!")
 
     if query:
